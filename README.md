@@ -2,4 +2,7 @@
 Aulas de Introdução à Computação
 
 Repositório para anotações sobre as aulas e exercícios.
+
 Este é o arquivo README
+
+Uma alteração remota.
